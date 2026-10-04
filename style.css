@@ -1,0 +1,25 @@
+body {
+    padding-top: 60px;
+}
+
+.hero {
+    height: 650px;
+    background: linear-gradient(rgba(73, 32, 7, 0.4),rgba(125, 77, 28, 0.4)),
+    url("asset.foto/heroy.jpg") center/cover;
+    color: white;
+}
+
+#kursus .card img {
+    height: 450px;
+    object-fit: cover;
+}
+
+#galeri {
+    background: url("asset.foto/back.galeri.jpg") center/cover no-repeat;
+}
+
+#galeri img {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+}
